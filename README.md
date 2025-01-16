@@ -14,7 +14,10 @@
 
 
 ## 🔒 Open/Closed Principle (OCP)
-- Uma classe deve estar aberta para extensão, mas fechada para modificação.
+- O princípio aberto/fechado afirma que uma classe deve ser aberta para extensão, mas fechada para modificação.
+- Ou seja, você deve conseguir estender um comportamento de uma classe sem modificá-lo.
+- Isso torna o código manutenível e extensivel evitando quebrar o código existente.
+
 ### Exemplo:
 ❌ [SRP](link) BAD <br/>
 ✅ [SRP](link) GOOD
