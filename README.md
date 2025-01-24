@@ -23,7 +23,9 @@
 ✅ [SRP](link) GOOD
 
 ## 👨🏼‍🧒🏼 Liskov Substitution Principle (LSP)
-- Objetos de uma superclasse devem ser substituíveis por objetos de suas subclasses sem que a aplicação quebre.
+- O princípio foi proposto por Barbara Liskov em 1987.
+- Se F é filho de P, então objetos do tipo P em um programa pode ser substituídos por objetos do tipo F sem alterar as propriedades do programa.
+- O filho herda do pai, logo o pai, pode ser substituído pelo filho sem alterar o funcionamento do programa.
 ### Exemplo:
 ❌ [SRP](link) BAD <br/>
 ✅ [SRP](link) GOOD
