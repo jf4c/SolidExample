@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="05_DIP\Bad\" />
-    <Folder Include="05_DIP\Good\" />
-  </ItemGroup>
-
 </Project>
